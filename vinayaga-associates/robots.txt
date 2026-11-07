@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.vajobs.in/sitemap.xml
+Sitemap: https://www.vajob.in/sitemap.xml

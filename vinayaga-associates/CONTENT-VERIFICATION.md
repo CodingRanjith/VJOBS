@@ -40,8 +40,8 @@ Verified from brochure and used on site:
 - Phone: `044-25580544` (second office number `47651536` removed from website per owner request)
 - Enquiry mobile: `+91 98840 43544`
 - Email: `infovajobs@gmail.com`
-- Additional email from back cover (`ceo@vajobs.in`) — removed from public website per owner request
-- Website: `www.vajobs.in`
+- Additional email from back cover (`ceo@vajob.in`) — removed from public website per owner request
+- Website: `www.vajob.in`
 
 Pending:
 
@@ -53,7 +53,7 @@ Pending:
 
 Profiles limited to brochure statements only:
 
-- Mr. Rajan Sekar — CEO & Founder
+- Mr. R. Sekar — CEO & Founder
 - Dr. Narasimman — Chairman
 - Mrs. S. Gunasundari — Proprietor
 - Mr. Alex Selvam — International Marketing Manager, Malaysia
@@ -95,10 +95,10 @@ Ask owners to approve the cleaned list used on `clients.html`.
 
 ## SEO domain confirmation
 
-Canonical URLs currently use `https://www.vajobs.in/`.
+Canonical URLs currently use `https://www.vajob.in/`.
 
 Confirm:
 
 - Preferred host (`www` vs apex)
 - HTTPS certificate readiness
-- Whether email addresses `@vajobs.in` are active
+- Whether email addresses `@vajob.in` are active

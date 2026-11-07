@@ -2,7 +2,7 @@
 
 Premium multi-page static corporate website for **Vinayaga Associates**, an overseas manpower recruiting agency based in Chennai, Tamil Nadu.
 
-Production domain referenced in brochure: [www.vajobs.in](https://www.vajobs.in)
+Production domain referenced in brochure: [www.vajob.in](https://www.vajob.in)
 
 ## Project overview
 
@@ -120,7 +120,7 @@ vinayaga-associates/
 ## SEO implementation
 
 - Unique title + meta description on every page
-- Canonical URLs using `https://www.vajobs.in/`
+- Canonical URLs using `https://www.vajob.in/`
 - Open Graph + Twitter card tags
 - JSON-LD Organization / EmploymentAgency + Breadcrumb / Service where applicable
 - Semantic heading hierarchy
@@ -135,7 +135,7 @@ Review `CONTENT-VERIFICATION.md` before indexing claims around licences, clients
 1. Upload the full `vinayaga-associates/` contents to `public_html` (or a subdomain folder).
 2. Ensure `includes/`, `css/`, `js/` and `assets/` remain in place relative to the HTML files.
 3. Confirm HTTPS and preferred host (`www` vs apex).
-4. Submit `https://www.vajobs.in/sitemap.xml` in Google Search Console.
+4. Submit `https://www.vajob.in/sitemap.xml` in Google Search Console.
 5. Test all 10 routes and the contact form messaging.
 
 ## Backend integration requirements

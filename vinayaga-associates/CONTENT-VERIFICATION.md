@@ -20,6 +20,7 @@ Use this list before publishing. Items below need owner confirmation or clearer 
 
 4. **Licence / certificate scans**
    - Licence number used site-wide: `B-1936/TN/PER/1000+/5/10385/2023`.
+   - RA ID added by owner: `RA5827530`.
    - Certificate crops from brochure page 4 may be partially illegible.
    - Confirm legal entity name on certificates, validity dates, and which marks (GST / MSME / MEA / eMigrate) may be shown publicly.
 
@@ -36,9 +37,10 @@ Use this list before publishing. Items below need owner confirmation or clearer 
 Verified from brochure and used on site:
 
 - Address: `#73/7, 1st Floor, Ethiraj Swamy Salai, Erukkancherry, Chennai – 600 118, TN, India (Near Pavithra Hospital)`
-- Phone: `044-25580544 / 47651536`
+- Phone: `044-25580544` (second office number `47651536` removed from website per owner request)
+- Enquiry mobile: `+91 98840 43544`
 - Email: `infovajobs@gmail.com`
-- Additional email from back cover: `ceo@vajobs.in`
+- Additional email from back cover (`ceo@vajobs.in`) — removed from public website per owner request
 - Website: `www.vajobs.in`
 
 Pending:

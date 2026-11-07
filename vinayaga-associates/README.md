@@ -146,7 +146,7 @@ To go live, connect it to one of:
 
 - PHP mail endpoint on cPanel
 - Form backend (Formspree, Basin, Getform, etc.)
-- Custom API that emails `infovajobs@gmail.com` / `ceo@vajobs.in`
+- Custom API that emails `infovajobs@gmail.com`
 
 Update `js/forms.js` to `fetch()` your endpoint after validation succeeds.
 

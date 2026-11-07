@@ -1,0 +1,166 @@
+/* Responsive adjustments */
+
+@media (max-width: 1199.98px) {
+  .nav-va .nav-link {
+    padding: 0.55rem 0.6rem !important;
+    font-size: 0.82rem;
+  }
+
+  .client-list {
+    columns: 1;
+  }
+}
+
+@media (max-width: 991.98px) {
+  :root {
+    --header-h: 72px;
+  }
+
+  .top-bar .top-bar-right {
+    display: none !important;
+  }
+
+  .navbar-collapse {
+    background: var(--white);
+    border-radius: 14px;
+    box-shadow: var(--shadow-md);
+    padding: 1rem;
+    margin-top: 0.75rem;
+  }
+
+  .header-cta {
+    margin: 0.75rem 0 0 !important;
+    width: 100%;
+  }
+
+  .home-hero {
+    min-height: auto;
+    padding: 3.25rem 0 4rem;
+  }
+
+  .home-hero h1 {
+    max-width: none;
+  }
+
+  .hero-visual-main {
+    height: 240px;
+  }
+
+  .hero-visual-stack img {
+    height: 100px;
+  }
+
+  .trust-strip {
+    margin-top: -1.5rem;
+  }
+
+  .section {
+    padding: 3.75rem 0;
+  }
+
+  .cta-band {
+    padding: 2.25rem;
+    text-align: center;
+  }
+
+  .cta-band .hero-actions {
+    justify-content: center;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .page-hero {
+    padding: 3.25rem 0 2.5rem;
+  }
+
+  .hero-meta {
+    gap: 1rem;
+  }
+
+  .hero-meta-item strong {
+    font-size: 1.2rem;
+  }
+
+  .team-card-media {
+    min-height: 240px;
+  }
+
+  .footer-bottom {
+    text-align: center;
+  }
+
+  .footer-bottom .text-md-end {
+    text-align: center !important;
+    margin-top: 0.5rem;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .hero-visual {
+    padding: 0.65rem;
+    border-radius: 20px;
+  }
+
+  .hero-visual-stack {
+    grid-template-columns: 1fr 0.85fr;
+  }
+
+  .hero-visual-main {
+    height: 200px;
+  }
+
+  .hero-visual-stack img {
+    height: 88px;
+  }
+
+  .container-va {
+    width: min(100% - 1.25rem, var(--container));
+  }
+
+  .brand-text strong {
+    font-size: 0.82rem;
+  }
+
+  .brand-text span {
+    font-size: 0.58rem;
+  }
+
+  .brand-lockup img {
+    width: 44px;
+    height: 44px;
+  }
+
+  .home-hero h1 {
+    font-size: 2rem;
+  }
+
+  .btn-va {
+    width: 100%;
+  }
+
+  .hero-actions {
+    flex-direction: column;
+  }
+
+  .va-card,
+  .category-panel {
+    padding: 1.35rem;
+  }
+
+  .map-embed {
+    min-height: 280px;
+  }
+}
+
+/* Prevent overflow across all breakpoints */
+html, body {
+  max-width: 100%;
+}
+
+.table-responsive,
+.client-logo-panel,
+.industry-media,
+.team-card,
+.va-card {
+  max-width: 100%;
+}
